@@ -1,6 +1,5 @@
 # Apman
 
-README.md
 This is a Appman project like a pacman that makes easier to use of apt
 
 The configuration of it are
